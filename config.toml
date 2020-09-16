@@ -1,4 +1,4 @@
-baseURL = "http://localhost/lolcode-docs/"
+baseURL = "https://deploy-preview-1--jolly-kepler-ce8189.netlify.app/"
 languageCode = "en-us"
 title = "LOLCODE Documentation"
 theme = "book"
