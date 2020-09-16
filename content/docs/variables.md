@@ -2,12 +2,11 @@
 title: Variables
 weight: 4
 ---
-
 ### Scope
 
 *(to be revisited and refined)*
 
-All variable scope, as of this version, is local to the enclosing function or to the main program block. Variables are only accessible after declaration, and there is no global scope.
+All variable scope, as of this version, is local to the enclosing function or to the main program block. Variables are accessible only after declaration, and there is no global scope.
 
 ### Naming
 
