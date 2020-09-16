@@ -1,0 +1,6 @@
+baseURL = "http://localhost/lolcode-docs/"
+languageCode = "en-us"
+title = "LOLCODE Documentation"
+theme = "book"
+[params]
+    BookSearch = true
